@@ -1,4 +1,5 @@
 📊 Coleção de Projetos em Python
+
 Este repositório reúne três projetos desenvolvidos durante um curso de Python, focados em resolver problemas reais de empresas utilizando análise de dados, machine learning e automação.
 
 🚀 Projetos
